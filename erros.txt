@@ -1,0 +1,1 @@
+{'errors': [{'error_type': 'invalid_parameter', 'message': 'Неверно указан атрибут, значение: ym:ad:deviceCategory, код ошибки: 4001'}], 'code': 400, 'message': 'Неверно указан атрибут, значение: ym:ad:deviceCategory, код ошибки: 4001'}
